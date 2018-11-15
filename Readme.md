@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/T120880/Controllers/HomeController.cs)
+* **[Index.cshtml](./CS/T120880/Views/Home/Index.cshtml)**
+* [ItemContentPartial.cshtml](./CS/T120880/Views/Home/ItemContentPartial.cshtml)
+<!-- default file list end -->
 # How to load ASP.NET MVC Ribbon item's content via an AJAX callback
 
 
