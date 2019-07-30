@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to load ASP.NET MVC Ribbon item's content via an AJAX callback
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t120880)**
+**[[Run Online]](https://codecentral.devexpress.com/t120880/)**
 <!-- run online end -->
 
 
